@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<a target="_blank" href="https://kjxbyz.com/alisoft">Official Website</a> · <a target="_blank" href="https://kjxbyz.com/watermark-assistant">Watermark Assistant</a>
+[Official Website](https://kjxbyz.com/alisoft) · [Watermark Assistant](https://kjxbyz.com/watermark-assistant)
