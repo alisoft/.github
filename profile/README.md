@@ -11,5 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[Official Website](https://kjxbyz.com/alisoft) · [PicGuard](https://kjxbyz.com/picguard) · [DS Audio](https://kjxbyz.com/dsaudio)
+[Official Website](https://kjxbyz.com/alisoft) · [DS Audio](https://kjxbyz.com/dsaudio)
  · [DS Video](https://kjxbyz.com/dsvideo) · [YTMusic](https://kjxbyz.com/ytmusic) · [Viber](https://kjxbyz.com/viber)
